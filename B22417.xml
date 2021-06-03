@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two orders of the Commons in Parliament of great consequence the one forbidding after publication hereof, all persons, tenants or others to pay any rents, profits, fees, or other advantages due, or payable to any persons ecclesiasticall or temporall, as have raised or shall raise arms against the Parliament or have volutarily contributed theunto, and that such payment shall be accounted as non payment : the other of additions to the ordinance of both Houses, for the raising of a wkekly [sic] contribution for the maintenance of the army raised by the Parliament.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22417</idno><idno type="EEBO-CITATION">12179506</idno>
+  <idno type="VID">197135</idno>
+  <idno type="EEBO-PROQUEST">2248539440</idno>
+  
+            <idno type="STC">Wing E2751</idno>
+            <idno type="OCLC">12179506</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197135)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E94, no 22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two orders of the Commons in Parliament of great consequence the one forbidding after publication hereof, all persons, tenants or others to pay any rents, profits, fees, or other advantages due, or payable to any persons ecclesiasticall or temporall, as have raised or shall raise arms against the Parliament or have volutarily contributed theunto, and that such payment shall be accounted as non payment : the other of additions to the ordinance of both Houses, for the raising of a wkekly [sic] contribution for the maintenance of the army raised by the Parliament.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 30, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first order was separately published as a broadside with caption : Die lunae 27. martii, 1643.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197135:1"/>
+            <pb facs="tcp:197135:1"/>
+            <p> TWO ORDERS Of the Commons in Parliament of great <hi>Consequence:</hi> The one forbidding after Publication hereof; all Persons, Tenants or others, to pay any Rents, Profits, Fees, or other advan<g ref="char:EOLhyphen"/>tages due, or payable to any person or persons Ecclesiasticall or Temporall, as have raised or shall raise Arms against the <hi>Parliament,</hi> or have volutarily contributed thereunto; and that such payment shall be accounted as non payment.</p>
+            <p>The other of additions to the Ordinance of both Houses, for the raising of a wkekly Contribution for the maintenance of the Army raised by the PARLIAMENT.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Commons in Parliament, That this Ordinance and Order be forthwith printed and published:</hi>
+                        </p>
+                        <closer>
+                           <signed>H: Elsynge, Cl. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husbands,</hi> and are to be sold at his shop in the middle Temple. March 30. 1643.</p>
+            <pb facs="tcp:197135:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_order">
+            <pb n="3" facs="tcp:197135:2"/>
+            <head>An Order forbidding after publication hereof, all persons, Tenants, or others to pay any Rents, Profits, Fees, or other advantages due or payable to any person or per<g ref="char:EOLhyphen"/>sons, Ecclesiasticall or Temporall, as have raised, or shall raise armes against the <hi>Parliament, &amp;c.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae</hi> 27. <hi>Martii,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the Com<g ref="char:EOLhyphen"/>mons in Parliament assembled; That if any person, Tenant or o<g ref="char:EOLhyphen"/>ther, after notice hereof given by the publication in Print, shall pay unto <hi>William</hi> Archbishop of Canterbury, <hi>Iohn</hi> Archbishop of Yorke, <hi>Thomas</hi> Bishop of Du<g ref="char:EOLhyphen"/>resme, <hi>Robert</hi> Bishop of Coventry and Litchfield, <hi>Ioseph</hi> Bishop of Norwich, <hi>Iohn</hi> Bishop of Asaph, <hi>Robert</hi> Bishop of Oxon, <hi>William</hi> Bishop of Bath and Wells, <hi>George</hi> Bishop of Hereford, <hi>Mathew</hi> Bishop of Ely, <hi>Godfrey</hi> Bishop of Glocester, <hi>Iohn</hi>
+               <pb n="4" facs="tcp:197135:3"/> Bishop of Peterborough, <hi>Morgan</hi> Bishop of Landaffe, <hi>Iohn</hi> Bishop of Worcester, or to any such Bishops, Deans, Deans and Chapters, Pre<g ref="char:EOLhyphen"/>bends, Archdeacons, or any other person or persons Ecclesiasticall or Temporall, as have raised or shall raise armes against the Parlia<g ref="char:EOLhyphen"/>ment, or have been, are, or shall be in actuall War against the same, or have voluntarily con<g ref="char:EOLhyphen"/>tributed, or shall voluntarily contribute (not being under the power of any part of the Kings army at the times of such contributing) any money, horse, Plate, arms, ammunition, or o<g ref="char:EOLhyphen"/>ther ayd or assistance for, or towards the main<g ref="char:EOLhyphen"/>tenance of any Forces raised against the Parli<g ref="char:EOLhyphen"/>ament, or for the opposing of any Force or power raised by authority of both Houses of Parliament, or for the robbing, spoyling, plun<g ref="char:EOLhyphen"/>dring, or destroying of any of the Kings Sub<g ref="char:EOLhyphen"/>jects who have willingly contributed or yeel<g ref="char:EOLhyphen"/>ded obedience to the commands of both Hou<g ref="char:EOLhyphen"/>ses of Parliament, or to such as have joyned, or shall joyne in any oath or act of association against the Parliament, or have imposed, or shall impose any tax or assessement upon his Majesties Subjects, for, or towards the main<g ref="char:EOLhyphen"/>tenance of any Forces against the Parliament,
+<pb n="5" facs="tcp:197135:3"/> or have, or shall use any force or power to levy the same; any Rents, Profits, Fees, or other advantage or emolument due to them, or any of them payable or chargeable upon any of their Lands or Offices; That such payment shall be accompted as <hi>non</hi> payment, and that they shall be lyable, and shall pay the same, to such as by authority of both Houses of Parliament shall be authorized to receive the same.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That this Or<g ref="char:EOLhyphen"/>der be forthwith Printed and published.</p>
+                        <closer>
+                           <signed>Hen. Elsynge. Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:197135:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae</hi> 27. <hi>Martii,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas, in the Ordinance of both Houses of Parliament for the rai<g ref="char:EOLhyphen"/>sing of a weekly contribution for the maintenance of the Armie rai<g ref="char:EOLhyphen"/>sed by the Parliament; the names of divers persons were omitted to be Committees for the Counties of <hi>Hertford, Kent, Somerset, Suffolk, Bed<g ref="char:EOLhyphen"/>ford, Surry, Dorset, Sussex, Norfolke.</hi> Be it ordai<g ref="char:EOLhyphen"/>ned, That Sir <hi>Iohn Garret</hi> Baronet, Sir <hi>Iohn Reade</hi> Baronet, <hi>Norton Graveley</hi> Esquire, Doctor <hi>King</hi> Doctor in Phisick, shall be added to the Com<g ref="char:EOLhyphen"/>mittees named for the said County of <hi>Hertford.</hi> And Sir <hi>Robert Honywood,</hi> and Sir <hi>Peter Godfrey</hi> knights, <hi>Richard Browne, Robert Scot, William Iames,</hi> and <hi>Marc Dixwell</hi> Esquires, shall be added to the Committees named for the sayd Country of <hi>Kent.</hi> And <hi>Hugh Rogers, Iohn Ashe, Iohn Pyne, Cle<g ref="char:EOLhyphen"/>ment Walker,</hi> and <hi>Robert Blagh</hi> Esquires, shall be added to the Committees named for the said County of <hi>Somerset.</hi> And Sir <hi>Edward Bacon</hi>
+               <pb n="7" facs="tcp:197135:4"/> knight and Baronet, Sir <hi>Butts Bacon</hi> Baronet, Sir <hi>Robert Brooke,</hi> Sir <hi>William So<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</hi> sir <hi>Edward Duke</hi> knights, <hi>Brampto</hi> Gurden, <hi>Wiseman Bokenham, Isa<g ref="char:EOLhyphen"/>ac Apleton, Henry North</hi> junior, <hi>Robert Reynolds</hi> Es<g ref="char:EOLhyphen"/>quires, <hi>Thomas Cole, Richard Pepys, Nathaniel Ba<g ref="char:EOLhyphen"/>con de</hi> Ipswich, <hi>Iohn Clinch</hi> senior, <hi>Iohn Clinch</hi> of Culphere, <hi>Nicholas Rivet</hi> of Dringston, <hi>Gibson Lucas</hi> Esquires; the Aldermen of Bury St. <hi>Ed<g ref="char:EOLhyphen"/>munds,</hi> and <hi>Thomas Chapman</hi> Esquire, <hi>Thomas Iohn<g ref="char:EOLhyphen"/>son of</hi> Albrough Gentleman, shall be added to the Committees named for the said County of <hi>Suffolke.</hi> And Sir <hi>Thomas Alston</hi> Knight and Ba<g ref="char:EOLhyphen"/>ronet, Sir <hi>Roger Burgoyne</hi> knight, <hi>Thomas Rolte, Humphrey Monox, William Duncombe, Iohn Vaux, Humphrey Fish, Iohn Neale, Oliver Boteler,</hi> the Ma<g ref="char:EOLhyphen"/>jor for the time being, and Doctor <hi>Banister</hi> Do<g ref="char:EOLhyphen"/>ctor in Phisick, shall be added to the Commit<g ref="char:EOLhyphen"/>tees named for the said County of <hi>Bedford.</hi> Sir <hi>Thomas Grimes,</hi> Sir <hi>Iohn Gresham,</hi> Sir <hi>Iohn Lenthall,</hi> Sir <hi>Iohn Maynard</hi> Knights, <hi>Charls Hoskins, Edward Bishe</hi> senior, <hi>Edward Bishe</hi> junior, <hi>Edward Bag<g ref="char:EOLhyphen"/>shawe, Iohn White, Robert Goodwyn, Iohn Turner, Edmund Sanders, Hermond Atwood</hi> Esquires, shall be added to the Committees named for the said County of <hi>Surry.</hi> And <hi>Richard Rose, Thomas Cee<g ref="char:EOLhyphen"/>ley, Iohn Henley, William Sydenham</hi> junior Esquires,
+<pb n="8" facs="tcp:197135:5"/> shall be added to the Committees named for the said County of <hi>Dorset.</hi> And Sir <hi>Iohn Cbapman</hi> knight, <hi>Anthony Fowle, Laurence Archburnham, Thomas Middleton, Peter Farneden, Iohn Busbridge, Stephen Humphrey, Thomas Collins,</hi> Captain <hi>Carleton,</hi> Captain <hi>Everden, Edward Higgons, William C<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wley Robert Spence</hi> Esquires, shalbe added to the Com<g ref="char:EOLhyphen"/>mittees named for the sayd county of <hi>Sussex.</hi> And Sir <hi>Edward Berkham</hi> Baronet, Sir <hi>Thomas Gaudy,</hi> sir <hi>Edward Ashtly,</hi> sir <hi>Thomas Guibon</hi> knights, <hi>Tho<g ref="char:EOLhyphen"/>mas Russell, Iohn VValpoole, Robert VVilton, Robert Iermy, Iohn Guibon▪ Robert Sheppard, Philip Calthorpe</hi> Esquires, shall be added to the Committees named for the said County of <hi>Norfolke.</hi> Which persons herein named, shall be Committees for the severall Counties aforesaid; and shall have the same power and authority in the respective Counties for which they are nominated, as the other Committees therein named are thereby to have.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Lords and Commons Assembled in Parliament, That this Ordinance be forthwith Printed and published.</p>
+                        <closer>
+                           <signed>H. Elsynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
